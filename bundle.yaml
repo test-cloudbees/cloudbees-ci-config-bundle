@@ -1,7 +1,7 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "cloudbees-ci-workshop-quyrean-controller"
-description: "CloudBees CI configuration bundle for the CloudBees CI Workshop"
+description: "CloudBees CI configuration bundle for the CloudBees CI Workshop 5"
 plugins:
   - "plugins.yaml"
 jcasc:
